@@ -128,18 +128,6 @@ http://127.0.0.1:5000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Login Page
-- Signup Page
-- Dashboard
-- Resume Upload
-- AI Analysis
-- History Page
-
----
 
 ## 🔒 Security
 
